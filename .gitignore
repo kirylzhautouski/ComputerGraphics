@@ -1,1 +1,10 @@
 .vscode
+
+venv/
+
+images/
+
+__pycache__
+build/
+dist/
+main.spec
